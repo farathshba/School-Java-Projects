@@ -1,0 +1,7 @@
+D1111|Dog food |11.55|per bottle|
+E2222|Elephant food|32.65|per can|
+F6666|Fruit juice|6.35|per bottle |
+I4444|Ice cream|2.2|per scoop|
+K3876|Distilled moonbeams|3.0|a dozen|
+P3487|Condensed powdered water|2.5|per packet|
+Z9983|Anti-Gravity pills|12.75|for 60|

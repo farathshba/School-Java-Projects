@@ -1,0 +1,6 @@
+A7799, Apple Juice, $12.75, per packet
+K3876, Distilled Moonbeams, $3.00 a dozen.
+M1455, Mineral Water, $1.20 per bottle.
+P3487, Condensed Powdered water, $2.50 per packet.
+R8788, Ice Lemon Tea, $3.25, per bottle
+S5432, Soft Drink, $10.50 per packet.

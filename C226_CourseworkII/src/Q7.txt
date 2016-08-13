@@ -1,0 +1,3 @@
+16.787351482913685
+[["Alperton", "Park Royal", "North Ealing", "Ealing Common", "Acton Town", "Turnham Green", "Hammersmith", "Barons Court", "Earl's Court", "Gloucester Road", "South Kensington", "Sloane Square", "Victoria", "St. James's Park", "Westminster", "Embankment"]]
+16.787351482913685
